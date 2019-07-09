@@ -1,0 +1,20 @@
+.sidebar .nav-item .nav-link[data-toggle="collapse"]::after,
+.sidebar #sidebarToggle::after {
+    content: none !important;
+}
+.table td {
+    font-size: 0.8rem !important;
+    color: #333 !important;
+}
+.table th {
+    font-size: 0.9rem !important;
+    color: #333 !important;
+}
+a:link {
+    text-decoration: none;
+}
+.help-block {
+    margin-top: 15px !important;
+    color: #ff0000;
+}
+.sidebar-dark #sidebarToggle { color: #FFF; }
